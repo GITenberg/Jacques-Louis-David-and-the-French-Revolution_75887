@@ -1,0 +1,46 @@
+_repo: Jacques-Louis-David-and-the-French-Revolution_75887
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: David, Jacques Louis
+    aliases:
+    - David, Cen
+    - David, J.-L. (Jacques-Louis)
+    - David, Louis
+    birthdate: 1748
+    deathdate: 1825
+    gutenberg_agent_id: '58190'
+    url: http://www.gutenberg.org/2009/agents/58190
+    wikipedia: https://en.wikipedia.org/wiki/Jacques-Louis_David
+creator:
+  author:
+    agent_name: Valentiner, Wilhelm Reinhold
+    alias: Valentiner, W. R.
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '58197'
+    url: http://www.gutenberg.org/2009/agents/58197
+    wikipedia: https://en.wikipedia.org/wiki/Wilhelm_Valentiner
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75887'
+  lccn: '29017163'
+language: en
+pgterms:marc904: https://archive.org/details/jacqdavi00vale
+pgterms:marc905: 20240812072714valentiner
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bFrederic Fairchild Sherman, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'David, Jacques Louis, 1748-1825'
+- !lcc 'ND'
+- GITenberg
+title: Jacques Louis David and the French Revolution
+url: http://www.gutenberg.org/ebooks/75887
