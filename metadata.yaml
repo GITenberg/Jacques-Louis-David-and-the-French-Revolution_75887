@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '58190'
     url: http://www.gutenberg.org/2009/agents/58190
     wikipedia: https://en.wikipedia.org/wiki/Jacques-Louis_David
+covers:
+- cover_type: archival
+  image_path: 75887-h/images/cover.jpg
 creator:
   author:
     agent_name: Valentiner, Wilhelm Reinhold
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58197
     wikipedia: https://en.wikipedia.org/wiki/Wilhelm_Valentiner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75887#Jacques-Louis-David-and-the-French-Revolution
 gutenberg_issued: '2025-04-17'
 gutenberg_type: Text
 identifiers:
